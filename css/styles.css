@@ -345,7 +345,7 @@ main section:nth-child(3) figure:nth-child(3) img {
   border-radius: 15px;
 }
 
-main section:nth-child(3) figure figurecaption {
+main section:nth-child(3) figure figcaption {
   font-size: small;
   padding: 10px 0;
   width: 100%;
